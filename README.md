@@ -115,4 +115,15 @@ Spar Nord Bank's ATM transaction data is analyzed using AWS services to optimize
 
 These insights can guide ATM refill schedules, inform partnership strategies, and improve customer comfort at ATM locations. The analysis provides a data-driven foundation for enhancing the bank's ATM network efficiency and customer experience.
 
+## Project Files
+- `ThePieSparkersDATA228_BDT_project.ipynb`: Jupyter notebook containing the project code
+- `ThePieSparkersProject_plan_v3.0.pdf`: Detailed project plan
+- `ThePieSparkers_DATA228_ATM_Transactions_Analysis.pptx`: Project presentation slides
+- `ThePieSparkers_DATA228_projectreport.pdf`: Comprehensive project report
+- `atm_data_part1.csv.zip`: First part of the ATM transaction dataset (compressed)
+- `atm_data_part2.csv.zip`: Second part of the ATM transaction dataset (compressed)
+- `images/`: Directory containing visualization images
+- `README.md`: This file, providing an overview of the project
+> These files encompass the complete project, including code, documentation, data, and presentation materials.
+
 
