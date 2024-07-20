@@ -84,9 +84,12 @@ This visualization identifies ATMs handling the highest cash volumes, assisting 
 This chart helps the bank understand which card types are associated with more failed transactions, potentially leading to improvements in card technology or customer education.
 
 #### Transaction Volume by Time of Day
-![Transaction Volume by Time](/images/Transaction%20Volume%20by%20Time%20of%20Day.png)
 
-This chart shows peak transaction hours, helping the bank schedule maintenance and cash replenishment during off-peak times to minimize customer inconvenience.
+<img src="/images/Transaction%20Volume%20by%20Time%20of%20Day.png" width="400" align="left" style="margin-right: 20px;">
+
+The resultset shows peak transaction hours, helping the bank schedule maintenance and cash replenishment during off-peak times to minimize customer inconvenience.
+
+<br clear="left">
 
 #### Card Type Usage
 ![Card Type Usage](/images/Card%20Type%20Usage.png)
