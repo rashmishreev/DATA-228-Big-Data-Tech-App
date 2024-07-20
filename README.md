@@ -57,7 +57,7 @@ The [dataset](https://www.kaggle.com/datasets/sparnord/danish-atm-transactions) 
 
 #### Top 10 ATMs with Highest Inactive Transactions
 ![Top 10 Inactive ATMs](/images/Top%2010%20ATMs%20with%20the%20highest%20percentage%20of%20'inactive'%20transactions.png)
-This visualization shows the ATMs with the highest percentage of failed transactions helping the bank identify problematic ATMs that need immediate attention or maintenance, improving overall customer experience.
+The query result shows the ATMs with the highest percentage of failed transactions helping the bank identify problematic ATMs that need immediate attention or maintenance, improving overall customer experience.
 
 #### ATM Failures by Weather Conditions
 
@@ -69,19 +69,19 @@ This graph illustrates how weather conditions impact ATM functionality. It allow
 
 #### Top 10 ATMs with Most Transactions
 ![Top 10 Busy ATMs](/images/Top%2010%20ATMs%20with%20the%20most%20transactions.png)
-Highlighting the busiest ATMs helps the bank identify locations that may need additional machines or more frequent maintenance and cash replenishment.
+The query result highlights the busiest ATMs helping the bank identify locations that may need additional machines or more frequent maintenance and cash replenishment.
 
 #### Monthly Inactive Transactions
 ![Monthly Inactive Transactions](/images/overall%20ATM%20transactions%20going%20inactive%20per%20month.png)
-This chart shows the number of unsuccessful transactions per month, helping the bank identify seasonal trends in ATM failures and plan maintenance accordingly.
+The query result shows the number of unsuccessful transactions per month, helping the bank identify seasonal trends in ATM failures and plan maintenance accordingly.
 
 #### Top 10 ATMs by Withdrawal Amount
 ![Top 10 ATMs by Withdrawal](/images/Top%2010%20ATMs%20with%20the%20highest%20amount%20of%20money%20withdrawn%20overall%20.png)
-This visualization identifies ATMs handling the highest cash volumes, assisting in cash management and security planning.
+The query result identifies ATMs handling the highest cash volumes, assisting in cash management and security planning.
 
 #### Unsuccessful Transactions by Card Type
 ![Unsuccessful Transactions by Card Type](/images/Number%20of%20unsuccessful%20ATM%20transactions%20using%20different%20card%20types.png)
-This chart helps the bank understand which card types are associated with more failed transactions, potentially leading to improvements in card technology or customer education.
+The query result helps the bank understand which card types are associated with more failed transactions, potentially leading to improvements in card technology or customer education.
 
 #### Transaction Volume by Time of Day
 
@@ -97,7 +97,7 @@ This visualization shows the popularity of different card types, helping the ban
 
 #### Daily Transaction Trends
 ![Daily Transaction Trends](/images/Daily%20Transaction%20Trends.png)
-This line chart shows daily transaction patterns, helping the bank understand long-term trends and seasonality in ATM usage.
+This viz shows daily transaction patterns, helping the bank understand long-term trends and seasonality in ATM usage.
 
 > These reports provide valuable insights that can help the bank optimize ATM placement, improve maintenance schedules, enhance cash management, and ultimately provide better service to customers. By understanding usage patterns, identifying problematic ATMs, and recognizing external factors that affect ATM usage, the bank can make data-driven decisions to improve efficiency and customer satisfaction.
 
