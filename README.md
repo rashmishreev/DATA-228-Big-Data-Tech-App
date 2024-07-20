@@ -1,4 +1,5 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![](https://img.shields.io/badge/Amazon-S3-S3?style=for-the-badge&logo=amazons3&logoColor=%23569A31)
+
 ## ATM Transactions Data Analysis for Spar Nord Bank Using AWS
 
 ### Project Overview
@@ -56,7 +57,7 @@ The [dataset](https://www.kaggle.com/datasets/sparnord/danish-atm-transactions) 
 
 #### Top 10 ATMs with Highest Inactive Transactions
 ![Top 10 Inactive ATMs](/images/Top%2010%20ATMs%20with%20the%20highest%20percentage%20of%20'inactive'%20transactions.png)
-This visualization shows the ATMs with the highest percentage of failed transactions. It helps the bank identify problematic ATMs that need immediate attention or maintenance, improving overall customer experience.
+This visualization shows the ATMs with the highest percentage of failed transactions helping the bank identify problematic ATMs that need immediate attention or maintenance, improving overall customer experience.
 
 #### ATM Failures by Weather Conditions
 ![ATM Failures vs Weather](/images/ATM%20failures_various%20weather%20conditions.png)
@@ -67,7 +68,7 @@ This graph illustrates how weather conditions impact ATM functionality. It allow
 Highlighting the busiest ATMs helps the bank identify locations that may need additional machines or more frequent maintenance and cash replenishment.
 
 #### Monthly Inactive Transactions
-![Monthly Inactive Transactions](image4.png)
+![Monthly Inactive Transactions](/images/overall%20ATM%20transactions%20going%20inactive%20per%20month.png)
 This chart shows the number of unsuccessful transactions per month, helping the bank identify seasonal trends in ATM failures and plan maintenance accordingly.
 
 #### Top 10 ATMs by Withdrawal Amount
@@ -78,34 +79,17 @@ This visualization identifies ATMs handling the highest cash volumes, assisting 
 ![Unsuccessful Transactions by Card Type](/images/Number%20of%20unsuccessful%20ATM%20transactions%20using%20different%20card%20types.png)
 This chart helps the bank understand which card types are associated with more failed transactions, potentially leading to improvements in card technology or customer education.
 
-#### Weekday vs Weekend Transactions
-![Weekday vs Weekend Transactions](image7.png)
-Showing transaction volumes on weekdays versus weekends helps the bank optimize ATM servicing schedules and cash management.
-
-#### Most Active Day in Vejgaard
-![Most Active Day in Vejgaard](image8.png)
-This insight helps the bank prepare for peak usage days in specific locations, ensuring ATMs are fully stocked and operational when needed most.
-
 #### Transaction Volume by Time of Day
-![Transaction Volume by Time](image9.png)
+![Transaction Volume by Time](/images/Transaction%20Volume%20by%20Time%20of%20Day.png)
 This chart shows peak transaction hours, helping the bank schedule maintenance and cash replenishment during off-peak times to minimize customer inconvenience.
 
 #### Card Type Usage
-![Card Type Usage](image10.png)
+![Card Type Usage](/images/Card%20Type%20Usage.png)
 This visualization shows the popularity of different card types, helping the bank tailor its services and potentially negotiate better terms with card providers.
 
-#### ATM Transactions by Manufacturer
-![ATM Transactions by Manufacturer](image11.png)
-This chart helps the bank evaluate the performance of ATMs from different manufacturers, potentially influencing future purchasing decisions.
-
 #### Daily Transaction Trends
-![Daily Transaction Trends](image12.png)
+![Daily Transaction Trends](/images/Daily%20Transaction%20Trends.png)
 This line chart shows daily transaction patterns, helping the bank understand long-term trends and seasonality in ATM usage.
-
-#### Weather Impact on ATM Usage
-![Weather Impact on ATM Usage](image13.png)
-This visualization correlates weather conditions with ATM usage, helping the bank anticipate demand fluctuations based on weather forecasts.
-
 
 > These reports provide valuable insights that can help the bank optimize ATM placement, improve maintenance schedules, enhance cash management, and ultimately provide better service to customers. By understanding usage patterns, identifying problematic ATMs, and recognizing external factors that affect ATM usage, the bank can make data-driven decisions to improve efficiency and customer satisfaction.
 
@@ -117,7 +101,7 @@ Spar Nord Bank's ATM transaction data is analyzed using AWS services to optimize
 - Most used cards: Visa, followed by Mastercard
 - Significant impact of temperature on ATM usage
 
-> These insights can guide ATM refill schedules, inform partnership strategies, and improve customer comfort at ATM locations. The analysis provides a data-driven foundation for enhancing the bank's ATM network efficiency and customer experience.
+> These insights can guide ATM refill schedules, inform partnership strategies, and improve customer comfort at ATM locations. The analysis provides a data-driven foundation for enhancing the bank's ATM network efficiency.
 
 ## Project Files
 - `ThePieSparkersDATA228_BDT_project.ipynb`: Jupyter notebook containing the project code
