@@ -113,7 +113,7 @@ Spar Nord Bank's ATM transaction data is analyzed using AWS services to optimize
 - Most used cards: Visa, followed by Mastercard
 - Significant impact of temperature on ATM usage
 
-> [These insights can guide ATM refill schedules, inform partnership strategies, and improve customer comfort at ATM locations. The analysis provides a data-driven foundation for enhancing the bank's ATM network efficiency and customer experience.]
+> [! These insights can guide ATM refill schedules, inform partnership strategies, and improve customer comfort at ATM locations. The analysis provides a data-driven foundation for enhancing the bank's ATM network efficiency and customer experience.]
 
 ## Project Files
 - `ThePieSparkersDATA228_BDT_project.ipynb`: Jupyter notebook containing the project code
