@@ -1,4 +1,5 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/Amazon-S3-S3?style=for-the-badge&logo=amazons3&logoColor=%23569A31)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AmazonS3](https://img.shields.io/badge/Amazon--S3-FF9333?style=for-the-badge&logo=amazons3&logoColor=black
+)
 
 ## ATM Transactions Data Analysis for Spar Nord Bank Using AWS
 
