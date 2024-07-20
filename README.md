@@ -24,11 +24,15 @@ The [dataset](https://www.kaggle.com/datasets/sparnord/danish-atm-transactions) 
 5. **Data Warehousing**: Transformed data is loaded into AWS Redshift for analysis.
 6. **Analysis**: In-depth analysis is performed using Redshift Query Editor.
 7. **Visualization**: Interactive dashboards are created using Tableau and Redshift Query Editor V2.
+   
+![](/images/architecture.png)
 
 ### Data Modeling
 - Implemented Star Schema design.
 - **Fact Table**: `fact_atm_trans`
 - **Dimension Tables**: `atm`, `date`, `location`, `card_type`
+
+![](/images/data_model.png)
 
 ### Data Engineering Process
 1. **Data Import**: Schema definition and merging of CSV files into a single DataFrame.
@@ -51,15 +55,15 @@ The [dataset](https://www.kaggle.com/datasets/sparnord/danish-atm-transactions) 
 ## ATM Transaction Analysis Results
 
 ### Top 10 ATMs with Highest Inactive Transactions
-![Top 10 Inactive ATMs](image1.png)
+![Top 10 Inactive ATMs](/images/Top%2010%20ATMs%20with%20the%20highest%20percentage%20of%20'inactive'%20transactions.png)
 This visualization shows the ATMs with the highest percentage of failed transactions. It helps the bank identify problematic ATMs that need immediate attention or maintenance, improving overall customer experience.
 
 ### ATM Failures by Weather Conditions
-![ATM Failures vs Weather](image2.png)
+![ATM Failures vs Weather](/images/ATM%20failures_various%20weather%20conditions.png)
 This graph illustrates how weather conditions impact ATM functionality. It allows the bank to anticipate potential issues during extreme weather and take preventive measures.
 
 ### Top 10 ATMs with Most Transactions
-![Top 10 Busy ATMs](image3.png)
+![Top 10 Busy ATMs](/images/Top%2010%20ATMs%20with%20the%20most%20transactions.png)
 Highlighting the busiest ATMs helps the bank identify locations that may need additional machines or more frequent maintenance and cash replenishment.
 
 ### Monthly Inactive Transactions
@@ -67,11 +71,11 @@ Highlighting the busiest ATMs helps the bank identify locations that may need ad
 This chart shows the number of unsuccessful transactions per month, helping the bank identify seasonal trends in ATM failures and plan maintenance accordingly.
 
 ### Top 10 ATMs by Withdrawal Amount
-![Top 10 ATMs by Withdrawal](image5.png)
+![Top 10 ATMs by Withdrawal](/images/Top%2010%20ATMs%20with%20the%20highest%20amount%20of%20money%20withdrawn%20overall%20.png)
 This visualization identifies ATMs handling the highest cash volumes, assisting in cash management and security planning.
 
 ### Unsuccessful Transactions by Card Type
-![Unsuccessful Transactions by Card Type](image6.png)
+![Unsuccessful Transactions by Card Type](/images/Number%20of%20unsuccessful%20ATM%20transactions%20using%20different%20card%20types.png)
 This chart helps the bank understand which card types are associated with more failed transactions, potentially leading to improvements in card technology or customer education.
 
 ### Weekday vs Weekend Transactions
