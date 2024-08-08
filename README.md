@@ -59,14 +59,6 @@ The [dataset](https://www.kaggle.com/datasets/sparnord/danish-atm-transactions) 
 ![Top 10 Inactive ATMs](/images/Top%2010%20ATMs%20with%20the%20highest%20percentage%20of%20'inactive'%20transactions.png)
 The query result shows the ATMs with the highest percentage of failed transactions helping the bank identify problematic ATMs that need immediate attention or maintenance, improving overall customer experience.
 
-#### ATM Failures by Weather Conditions
-
-<img src="/images/ATM%20failures_various%20weather%20conditions.png" width="400" align="left" style="margin-right: 20px;">
-
-This graph illustrates how weather conditions impact ATM functionality. It allows the bank to anticipate potential issues during extreme weather and take preventive measures.
-
-<br clear="left">
-
 #### Top 10 ATMs with Most Transactions
 ![Top 10 Busy ATMs](/images/Top%2010%20ATMs%20with%20the%20most%20transactions.png)
 The query result highlights the busiest ATMs helping the bank identify locations that may need additional machines or more frequent maintenance and cash replenishment.
